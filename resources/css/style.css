@@ -1,16 +1,32 @@
 *{
     background-color: black;
     text-align: center;
+    color: white;
 }
-#discover{
+#discover,
+#coming-soon
+{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
-    color: white;
     text-align: center;
 }
 #download{
     color: aquamarine;
     font-size: 16px;
     text-decoration: underline;
+}
+#guide{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+}
+#places{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+.footer{
+    text-align: right;
+    color: gray;
 }
